@@ -1,0 +1,32 @@
+ .intro {
+      color:white;
+      background-color:green;
+      font-family:courier;
+      text-align:left;
+      width:75%;
+    }
+    
+    div {
+      color:red;
+    }
+    
+    .header {
+      color:purple;
+      font-size: 30px;
+      font-family:Verdana;
+    }
+    
+    body {
+      background-color:blue;
+      text-align:center;
+    }
+    .content {
+      text-align:center;
+      background-color:white;
+      width:90%;
+      height:500px;
+      font-size:12px;
+    }
+    .image {
+      width:100%
+    }
